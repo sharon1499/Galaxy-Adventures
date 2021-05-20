@@ -1,0 +1,22 @@
+C:\Users\Aaliyah\Documents\StarterGame\StarterGame\obj\Debug\netcoreapp2.1\GalaxyGame.csprojAssemblyReference.cache
+C:\Users\Aaliyah\Documents\StarterGame\StarterGame\obj\Debug\netcoreapp2.1\GalaxyGame.csproj.CoreCompileInputs.cache
+C:\Users\Aaliyah\Documents\StarterGame\StarterGame\obj\Debug\netcoreapp2.1\GalaxyGame.AssemblyInfoInputs.cache
+C:\Users\Aaliyah\Documents\StarterGame\StarterGame\obj\Debug\netcoreapp2.1\GalaxyGame.AssemblyInfo.cs
+C:\Users\Aaliyah\Documents\StarterGame\StarterGame\bin\Debug\netcoreapp2.1\GalaxyGame.deps.json
+C:\Users\Aaliyah\Documents\StarterGame\StarterGame\bin\Debug\netcoreapp2.1\GalaxyGame.runtimeconfig.json
+C:\Users\Aaliyah\Documents\StarterGame\StarterGame\bin\Debug\netcoreapp2.1\GalaxyGame.runtimeconfig.dev.json
+C:\Users\Aaliyah\Documents\StarterGame\StarterGame\bin\Debug\netcoreapp2.1\GalaxyGame.dll
+C:\Users\Aaliyah\Documents\StarterGame\StarterGame\bin\Debug\netcoreapp2.1\GalaxyGame.pdb
+C:\Users\Aaliyah\Documents\StarterGame\StarterGame\obj\Debug\netcoreapp2.1\GalaxyGame.dll
+C:\Users\Aaliyah\Documents\StarterGame\StarterGame\obj\Debug\netcoreapp2.1\GalaxyGame.pdb
+C:\Users\Aaliyah\Documents\OOD Final\StarterGame\StarterGame\bin\Debug\netcoreapp2.1\GalaxyGame.deps.json
+C:\Users\Aaliyah\Documents\OOD Final\StarterGame\StarterGame\bin\Debug\netcoreapp2.1\GalaxyGame.runtimeconfig.json
+C:\Users\Aaliyah\Documents\OOD Final\StarterGame\StarterGame\bin\Debug\netcoreapp2.1\GalaxyGame.runtimeconfig.dev.json
+C:\Users\Aaliyah\Documents\OOD Final\StarterGame\StarterGame\bin\Debug\netcoreapp2.1\GalaxyGame.dll
+C:\Users\Aaliyah\Documents\OOD Final\StarterGame\StarterGame\bin\Debug\netcoreapp2.1\GalaxyGame.pdb
+C:\Users\Aaliyah\Documents\OOD Final\StarterGame\StarterGame\obj\Debug\netcoreapp2.1\GalaxyGame.csproj.CoreCompileInputs.cache
+C:\Users\Aaliyah\Documents\OOD Final\StarterGame\StarterGame\obj\Debug\netcoreapp2.1\GalaxyGame.AssemblyInfoInputs.cache
+C:\Users\Aaliyah\Documents\OOD Final\StarterGame\StarterGame\obj\Debug\netcoreapp2.1\GalaxyGame.AssemblyInfo.cs
+C:\Users\Aaliyah\Documents\OOD Final\StarterGame\StarterGame\obj\Debug\netcoreapp2.1\GalaxyGame.dll
+C:\Users\Aaliyah\Documents\OOD Final\StarterGame\StarterGame\obj\Debug\netcoreapp2.1\GalaxyGame.pdb
+C:\Users\Aaliyah\Documents\OOD Final\StarterGame\StarterGame\obj\Debug\netcoreapp2.1\GalaxyGame.csprojAssemblyReference.cache
